@@ -1,1 +1,1 @@
-Proving firstness
+Establishing firstness
