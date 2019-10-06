@@ -1,0 +1,6 @@
+export const ERROR = {
+  UNKNOWN: 1,
+  NO_FACTORY: 2,
+  METAMASK_NO_LOGIN: 3,
+  DENIED_ACCESS: 4
+};
